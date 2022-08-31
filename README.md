@@ -29,6 +29,7 @@ Below is a list of the notebooks in Kaggle:
 * [Lecture 17](https://www.kaggle.com/code/vincenttu/stanford-cs224n-nlp-lecture-17)
 * [Lecture 18](https://www.kaggle.com/code/vincenttu/stanford-cs224n-nlp-lecture-18)
 
+DISCLAIMER: Some of these lecture notebooks are empty! Why? For those lectures, I've found better resources elsewhere that are much more comprehensive! One example is the lecture on the Transformer architecture and attention. I have another notebook that goes through that: https://www.kaggle.com/code/vincenttu/attention-is-all-you-need-resources. 
 
 The link to the repository: https://github.com/alckasoc/Stanford-CS224N---Lecture-Notes
 
